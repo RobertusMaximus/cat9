@@ -1,0 +1,17 @@
+Prog Notes Cat9
+
+1. Response section - known responses / unknown and now recorded response section
+
+2. Interaction with Storm - types (physical touch, sound, sight, food/taste, smell)
+
+3. Programmed cat responses - (Hunt and kill, Hide, seek high places, etc)
+
+4. Learned responses - (these get recorded as learned)
+
+5. Cat to Cat - (other animal responses)
+
+6. Interacting with outside programs in a "cat like" way
+
+7. Output - Console, network and where else?
+
+Robert Day CISSP
